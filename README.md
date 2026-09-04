@@ -41,6 +41,8 @@ a working framework and a process the team kept using.
 - 🧪 [`qa-automation-framework`](https://github.com/maximozaitsev/qa-automation-framework) — Python + Playwright + Pytest, POM, API tests, CI, Allure
 - 📋 [`web3-defi-qa-checklist`](https://github.com/maximozaitsev/web3-defi-qa-checklist) — reusable Web3/DeFi test-design checklist & templates -->
 
+**Contacts**
+
 <p align="left">
   <a href="https://t.me/mazajca"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
   <a href="mailto:maximozaitsev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
