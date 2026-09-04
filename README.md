@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d5ffcd,100:d5ffcd&height=180&section=header&text=Maksim%20Zaitsev&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=QA%20%2F%20Automation%20Engineer&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4ffcc, 100:d4ffcc&height=180&section=header&text=Maksim%20Zaitsev&fontSize=46&fontColor=ffffff&desc=QA%20%2F%20Automation%20Engineer&descAlignY=62&descSize=18" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=4B6FA8&center=true&vCenter=true&width=560&lines=Manual+%2B+Automated+Testing;Python+%C2%B7+Pytest+%C2%B7+Playwright;QA+Process%3A+Zero+to+One;Web3+%2F+DeFi+Specialist" alt="typing" />
