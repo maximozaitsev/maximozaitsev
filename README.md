@@ -36,10 +36,10 @@ a working framework and a process the team kept using.
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
 
-**Pinned**
+<!-- **Pinned**
 
 - 🧪 [`qa-automation-framework`](https://github.com/maximozaitsev/qa-automation-framework) — Python + Playwright + Pytest, POM, API tests, CI, Allure
-- 📋 [`web3-defi-qa-checklist`](https://github.com/maximozaitsev/web3-defi-qa-checklist) — reusable Web3/DeFi test-design checklist & templates
+- 📋 [`web3-defi-qa-checklist`](https://github.com/maximozaitsev/web3-defi-qa-checklist) — reusable Web3/DeFi test-design checklist & templates -->
 
 <p align="left">
   <a href="https://t.me/mazajca"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
